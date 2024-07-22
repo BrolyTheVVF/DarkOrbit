@@ -1,0 +1,90 @@
+# Material file for goliath_bastion.obj
+
+newmtl material
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material.jpg
+g
+
+newmtl material8
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material9.jpg
+
+newmtl material7
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material9.jpg
+
+newmtl material6
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material9.jpg
+
+newmtl material5
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material9.jpg
+
+newmtl material4
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material9.jpg
+
+newmtl material3
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material9.jpg
+
+newmtl material2
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material9.jpg
+
+newmtl material1
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material9.jpg
+
+newmtl material0
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material9.jpg
+
+newmtl material
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material.jpg

@@ -1,0 +1,9 @@
+# Material file for xmas_tree.obj
+
+newmtl material
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material.jpg

@@ -1,0 +1,8 @@
+# Material file for g_champion.obj
+
+newmtl material
+Kd 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 128
+Tr 0

@@ -1,0 +1,9 @@
+# Material file for goliath_x.obj
+
+newmtl material6
+Kd 1 1 1
+Ka 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ns 128
+Tr 0
+map_Kd material6.jpg
